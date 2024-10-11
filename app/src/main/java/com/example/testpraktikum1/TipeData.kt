@@ -10,7 +10,7 @@ fun main() {
     val shortValue: Short = 20
     println("Short: $shortValue")
 
-    //integer
+    //Int
     val intValue: Int = 30
     println("Int: $intValue")
 
@@ -40,6 +40,4 @@ fun main() {
 
     stringValue = "Hello, Kotlin"
     println("string : $stringValue")
-
-
 }
